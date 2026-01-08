@@ -22,5 +22,4 @@ Software engineer focused on functional programming, runtimes/VMs, and determini
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/savioscmendes/
-- X: https://x.com/itisnotsavio
 - Discord: itisnotsavio
